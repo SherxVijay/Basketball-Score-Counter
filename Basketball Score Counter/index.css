@@ -1,0 +1,139 @@
+
+body {
+    width: 575px;
+    height :385px;
+    margin: 90px auto;
+    background: #000000;
+}
+ 
+.container {
+    background: #1B244A;
+    display: flex;
+    justify-content: space-around;
+}
+
+#team1name{
+    margin: 68px 106px 21px 94px ;
+    text-align: center;
+    width: 149px;
+    height: 36px;
+    color: white;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    text-shadow: 0px 0px 1px;
+}
+#team2name{
+    margin: 68px 86px 21px 16px;
+    text-align: center;
+    width: 149px;
+    height: 36px;
+    color: white;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 21px;
+    text-shadow: 0px 0px 1px;
+}
+
+
+#score-1{
+    width: 140px;
+    margin: 21px 100px 26px 82px;
+    background: black;
+    color: #F94F6D;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 90px;
+    font-weight: 400;
+    text-align: center;
+    padding: 2px 20px 2px 18px ;
+    
+}
+#score-2{
+    width: 140px;
+    margin: 0px 83px 26px 0px;
+    background: black;
+    color: #F94F6D;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 90px;
+    font-weight: 400;
+    text-align: center;
+    padding: 2px 20px 2px 18px ;
+    
+}
+
+button{
+    align-content: center;
+    color:#EEEEEE;
+    border: 1px solid #EEEEEE;
+    background: none;
+    border-radius: 3px;
+}
+#button1{
+    width: 155px;
+    height: 45px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px 100px 69px 95px ;
+}
+#btn-1-team1{
+    font-family: 'Orbitron', sans-serif;
+    padding: 9px 10.22px;
+}
+#btn-2-team1{
+    font-family: 'Orbitron', sans-serif;
+    padding: 9px 10.22px;
+}
+#btn-3-team1{
+    font-family: 'Orbitron', sans-serif;
+    padding: 9px 10.22px;
+}
+#button2{
+    width: 155px;
+    height: 45px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px 83px 69px 18px ;
+}
+#btn-1-team2{
+    font-family: 'Orbitron', sans-serif;
+    padding: 9px 10.22px;
+}
+#btn-2-team2{
+    font-family: 'Orbitron', sans-serif;
+    padding: 9px 10.22px;
+}
+#btn-3-team2{
+    font-family: 'Orbitron', sans-serif;
+    padding: 9px 10.22px;
+}
+
+/*-------------------------------------------------------------*/
+
+#btn-1-team1:hover{
+    color: black;
+    background:#e5e5e5 ;
+}
+#btn-2-team1:hover{
+    color: black;
+    background:#e5e5e5 ;
+}
+#btn-3-team1:hover{
+    color: black;
+    background:#e5e5e5 ;
+}
+#btn-1-team2:hover{
+    color: black;
+    background:#e5e5e5 ;
+}
+#btn-2-team2:hover{
+    color: black;
+    background:#e5e5e5 ;
+}
+#btn-3-team2:hover{
+    color: black;
+    background:#e5e5e5 ;
+}
